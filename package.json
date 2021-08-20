@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "8.1.2",
+  "description": "Command-line application that dynamically generates a professional README.md file from a user's input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brookemadison/readme-generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generator"
+  ],
+  "author": "Brooke Madison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brookemadison/readme-generator/issues"
+  },
+  "homepage": "https://github.com/brookemadison/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
