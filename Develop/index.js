@@ -6,6 +6,7 @@ const generateMarkdown = require('./utils/generateMarkdown.js');
 
 // TODO: Create an array of questions for user input
 const questions = [
+
     {
         type: "input",
         message: "What is the title fo your repository?",
@@ -25,12 +26,6 @@ const questions = [
         type: "input",
         message: "Please include a link to the deployed application here.",
         name: "Deployed link"
-    },
-    {
-        type: "checkbox",
-        message: "What do you want to include in your table of contents? (check all that apply)",
-        choices: ["Description", "Installation", "Usage", "License", "Contributing", "Tests", "Questions"],
-        name: "Table of contents"
     },
     {
         type: "input",
@@ -62,12 +57,12 @@ const questions = [
     {
         type: "input",
         message: "Please add your github username",
-        name: "Questions"
+        name: "username"
     },
     {
         type:"input",
         message: "Please add your email address.",
-        name: "Questions"
+        name: "email"
     }
 ];
 
