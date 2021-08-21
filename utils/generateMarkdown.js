@@ -40,7 +40,7 @@ function generateMarkdown(data) {
   # ${data.title}
 
   ## Screenshot
-  ![screenshot](assets/images/${data.screenshot})
+  ${data.screenshot})
   
   ## Table of Contents
   * [Description] (#description)
