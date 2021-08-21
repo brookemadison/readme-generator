@@ -43,7 +43,7 @@ function generateMarkdown(data) {
   ${data.screenshot})
   
   ## Table of Contents
-  * [Description] (#description)
+  * [Description](#description)  
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
@@ -75,9 +75,9 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
-  Github: ${data.username}
+  Github: [${data.username}]
   <br />
-  Email me with any questions: ${data.email}
+  Email me with any questions: [${data.email}]
   
 `;
 }
