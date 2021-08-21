@@ -26,8 +26,15 @@ function generateMarkdown(data) {
   
   # ${data.title}
 
+  ## Screenshot
+  ![screenshot](assets/images/${data.screenshot})
+  
+
   ## Description
   ${data.description}
+
+  ## Link to Deployed Application
+  ${data.deployedlink}
 
   ## Table of Contents
   * [Description] (#description)
@@ -56,7 +63,7 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
-  ${answers.questions}
+  ${data.questions}
   Github: ${data.username}(https://github.com/${data.username})
   <br>
   Email me with any questions: ${data.email}
