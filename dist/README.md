@@ -1,16 +1,16 @@
 
   
-  # undefined
+  # Proffesional README.md Generator
 
   ## Screenshot
-  ![screenshot](assets/images/undefined)
+  ![screenshot](assets/images/screenshot)
   
 
   ## Description
-  undefined
+  A command-line application that dynamically generates a professional README.md file from a user's input.
 
   ## Link to Deployed Application
-  undefined
+  thisisalink
 
   ## Table of Contents
   * [Description] (#description)
@@ -22,25 +22,28 @@
   * [Questions](#questions)
 
   ## Installation
-  undefined
+  npm install inquirer is required
 
   ## Usage
-  undefined
+  To help developers quickly create a professional README for a new project
 
   ## License
-  ![badge](https://img.shields.io/badge/license-undefined-brightgreen)
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+  <br />
+  This application is covered by the MIT license. 
+
   
-  <br />This application is covered by the undefined license. 
+  <br />This application is covered by the MIT license. 
   
   ## Contributing
-  undefined
+  https://github.com/brookemadison
 
   ## Tests
-  undefined
+  No tests are included
 
   ## Questions
   undefined
-  Github: undefined(https://github.com/undefined)
-  <br>
-  Email me with any questions: undefined
+  Github: https://github.com/brookemadison(https://github.com/https://github.com/brookemadison)
+  <br />
+  Email me with any questions: brookeperry611@gmail.com
   
