@@ -3,7 +3,7 @@
   # Professional README Generator
 
   ## Screenshot
-  ![alt text]assets/images/screenshot)
+  ![alt text]assets/images/screenshot.png)
   
   ## Table of Contents
   * [Description](#description)  
