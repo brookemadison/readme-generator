@@ -40,7 +40,7 @@ function generateMarkdown(data) {
   # ${data.title}
 
   ## Screenshot
-  ${data.screenshot})
+  ${data.screenshot}
   
   ## Table of Contents
   * [Description](#description)  

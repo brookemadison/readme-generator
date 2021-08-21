@@ -3,10 +3,10 @@
   # Professional README Generator
 
   ## Screenshot
-  ![alt text]assets/images/screenshot))
+  ![alt text]assets/images/screenshot)
   
   ## Table of Contents
-  * [Description] (#description)
+  * [Description](#description)  
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
@@ -35,10 +35,10 @@
    github.com/brookemadison
 
   ## Tests
-  No tests are included
+  No tests are included.
 
   ## Questions
-  Github: github.com/brookemadison
+  Github: [github.com/brookemadison]
   <br />
-  Email me with any questions: brookeperry611@gmail.com
+  Email me with any questions: [brookeperry611@gmail.com]
   
