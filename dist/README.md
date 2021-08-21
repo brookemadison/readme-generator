@@ -1,17 +1,10 @@
 
   
-  # Proffesional README.md Generator
+  # Professional README Generator
 
   ## Screenshot
-  ![screenshot](assets/images/screenshot)
+  ![screenshot](assets/images/![alt text]assets/images/Screen Shot 2021-08-20 at 11.30.20 PM))
   
-
-  ## Description
-  A command-line application that dynamically generates a professional README.md file from a user's input.
-
-  ## Link to Deployed Application
-  thisisalink
-
   ## Table of Contents
   * [Description] (#description)
   * [Installation](#installation)
@@ -20,6 +13,12 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
+
+  ## Description
+  A command-line application that dynamically generates a professional README.md file from a user's input.
+
+  ## Link to Deployed Application
+  here is the link
 
   ## Installation
   npm install inquirer is required

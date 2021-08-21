@@ -42,13 +42,6 @@ function generateMarkdown(data) {
   ## Screenshot
   ![screenshot](assets/images/${data.screenshot})
   
-
-  ## Description
-  ${data.description}
-
-  ## Link to Deployed Application
-  ${data.deployedlink}
-
   ## Table of Contents
   * [Description] (#description)
   * [Installation](#installation)
@@ -57,6 +50,12 @@ function generateMarkdown(data) {
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
+
+  ## Description
+  ${data.description}
+
+  ## Link to Deployed Application
+  [Click Here!](${data.deployedlink})
 
   ## Installation
   ${data.installation}
@@ -68,9 +67,6 @@ function generateMarkdown(data) {
   ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
   <br />
   This application is covered by the ${data.license} license. 
-
-  
-  <br />This application is covered by the ${data.license} license. 
   
   ## Contributing
   ${data.contributing}
@@ -79,8 +75,7 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
-  ${data.questions}
-  Github: ${data.username}(https://github.com/${data.username})
+  Github: ${data.username}
   <br />
   Email me with any questions: ${data.email}
   
