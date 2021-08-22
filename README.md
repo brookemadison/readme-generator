@@ -29,16 +29,16 @@ node <file>.js
 
 They are then prompted for information about the application such as:
   
-*title of the project
-*Screenshot
-*Description 
-*Table of Contents
-*Installation
-*Usage
-*License
-*Contributing
-*Tests
-*Github Username & Email 
+* Title of the project
+* Screenshot
+* Description 
+* Table of Contents
+* Installation
+* Usage
+* License
+* Contributing
+* Tests
+* Github Username & Email 
 
 User is then prompted with a response that says "file is Created" and will find the README.md file generated in the dist folder.
 
