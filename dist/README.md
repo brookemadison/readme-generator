@@ -21,7 +21,7 @@
   [Click Here!](Link)
 
   ## Installation
-  npm install inquirer is required.
+  npm inquirer is required.
 
   ## Usage
   To help developers quickly create a professional README for a new project.
@@ -32,7 +32,7 @@
   This application is covered by the MIT license. 
   
   ## Contributing
-   github.com/brookemadison
+  github.com/brookemadison
 
   ## Tests
   No tests are included.

@@ -1,3 +1,60 @@
-# Professional README Generator Starter Code
+# Professional README Generator 
 
-[How to create a Professional README](./readme-guide.md)
+## Screenshot
+
+<img width="470" alt="screenshot" src="https://user-images.githubusercontent.com/83384131/130370510-301bfc31-7342-4703-88f9-586aadf37310.png">
+
+## Description 
+
+The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
+
+This application command-line application dynamically generates a professional README.md file from a user's input allowing the project creator to devote more time working on the project.
+
+## Table of Contents (Optional)
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [Demo](#demo)
+* [Contributing](#contributing)
+* [Questions](#questions)
+
+## Installation
+
+npm inquirer is required.
+
+## Usage
+
+User runs the following command at the root of their project:
+
+node <file>.js
+
+They are then prompted for information about the application such as:
+*title of the project
+*Screenshot
+*Description 
+*Table of Contents
+*Installation
+*Usage
+*License
+*Contributing
+*Tests
+*Github Username & Email 
+
+User is then prompted with a response that says "file is Created" and will find the README.md file generated in the dist folder.
+
+## Demo
+
+## Framework
+Node
+inquirer
+fs
+
+## Contributing
+
+Brooke Madison
+
+## Questions
+
+✉️ Contact me with any questions:
+[Github](https://github.com/brookemadison)
+[Email](brookeperry611@gmail.com)
