@@ -1,8 +1,9 @@
-# Professional README Generator 
+<center> # Professional README Generator </center>
 
 ## Screenshot
 
-<img width="470" alt="screenshot" src="https://user-images.githubusercontent.com/83384131/130370510-301bfc31-7342-4703-88f9-586aadf37310.png">
+<center><img width="470" alt="screenshot" src="https://user-images.githubusercontent.com/83384131/130370510-301bfc31-7342-4703-88f9-586aadf37310.png">
+</center>
 
 ## Description 
 
@@ -42,8 +43,14 @@ They are then prompted for information about the application such as:
 
 User is then prompted with a response that says "file is Created" and will find the README.md file generated in the dist folder.
 
+Final Product will look like this: 
+
+https://user-images.githubusercontent.com/83384131/130372913-b9059e8c-1575-4fa3-aee6-99a3c98f0c3c.mp4
+
 ## Demo
 
+https://user-images.githubusercontent.com/83384131/130372528-1a4a71bb-2916-45c2-98c0-a79cd5ab6769.mp4
+  
 ## Framework
 Node
 inquirer
@@ -56,5 +63,5 @@ Brooke Madison
 ## Questions
 
 ✉️ Contact me with any questions:
-[Github](https://github.com/brookemadison)
-[Email](brookeperry611@gmail.com)
+<br />[Github](https://github.com/brookemadison)
+<br />[Email](brookeperry611@gmail.com)
