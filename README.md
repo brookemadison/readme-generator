@@ -25,7 +25,7 @@ npm inquirer is required.
 
 User runs the following command at the root of their project:
 
-node <file>.js
+* node <file>.js
 
 They are then prompted for information about the application such as:
   
