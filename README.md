@@ -64,4 +64,4 @@ Brooke Madison
 
 ✉️ Contact me with any questions:
 <br />[Github](https://github.com/brookemadison)
-<br />[Email](brookeperry611@gmail.com)
+<br />Email: brookeperry611@gmail.com
