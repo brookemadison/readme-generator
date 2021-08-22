@@ -3,7 +3,7 @@
   # Professional README Generator
 
   ## Screenshot
-  ![alt text]assets/images/screenshot.png)
+  <img width="470" alt="screenshot" src="https://user-images.githubusercontent.com/83384131/130370302-d6a2a794-18a5-426e-890b-f6f20e115bef.png">
   
   ## Table of Contents
   * [Description](#description)  
