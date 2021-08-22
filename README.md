@@ -1,9 +1,8 @@
-<center> # Professional README Generator </center>
+# Professional README Generator
 
 ## Screenshot
 
-<center><img width="470" alt="screenshot" src="https://user-images.githubusercontent.com/83384131/130370510-301bfc31-7342-4703-88f9-586aadf37310.png">
-</center>
+<img width="470" alt="screenshot" src="https://user-images.githubusercontent.com/83384131/130370510-301bfc31-7342-4703-88f9-586aadf37310.png">
 
 ## Description 
 
