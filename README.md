@@ -1,6 +1,5 @@
 # Professional README Generator
 
-## Screenshot
 
 <img width="470" alt="screenshot" src="https://user-images.githubusercontent.com/83384131/130370510-301bfc31-7342-4703-88f9-586aadf37310.png">
 
@@ -10,7 +9,7 @@ The quality of a README often differentiates a good project from a bad project. 
 
 This application command-line application dynamically generates a professional README.md file from a user's input allowing the project creator to devote more time working on the project.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -29,6 +28,7 @@ User runs the following command at the root of their project:
 node <file>.js
 
 They are then prompted for information about the application such as:
+  
 *title of the project
 *Screenshot
 *Description 
@@ -51,9 +51,10 @@ https://user-images.githubusercontent.com/83384131/130372913-b9059e8c-1575-4fa3-
 https://user-images.githubusercontent.com/83384131/130372528-1a4a71bb-2916-45c2-98c0-a79cd5ab6769.mp4
   
 ## Framework
-Node
-inquirer
-fs
+  
+*Node
+*inquirer
+*fs
 
 ## Contributing
 
