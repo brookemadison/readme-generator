@@ -52,9 +52,9 @@ https://user-images.githubusercontent.com/83384131/130372528-1a4a71bb-2916-45c2-
   
 ## Framework
   
-*Node
-*inquirer
-*fs
+* Node
+* inquirer
+* fs
 
 ## Contributing
 
